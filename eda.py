@@ -8,9 +8,15 @@ import seaborn as sns
 
 def run():
     # set title
-    st.title('Bank Marketing Campaign Analysis')
+    st.title('Data Job in Indonesia')
 
+    # logo
+    st.write('______')
+    st.image('logo.png')
+    st.write('______')
 
+    # load data
+    st.write
 
 if __name__ == '__main__':
     run()
